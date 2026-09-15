@@ -1,5 +1,5 @@
 {
-  "display_name": "Avatar URL Compatibility (Theme Manager)",
+  "display_name": "확장 프사 날라감 방지",
   "version": "1.0.0",
   "author": "Local compatibility patch",
   "description": "Keeps native chat avatar thumbnail URLs compatible with Theme Manager and message renderers.",
