@@ -1,0 +1,11 @@
+{
+  "display_name": "Avatar URL Compatibility (Theme Manager)",
+  "version": "1.0.0",
+  "author": "Local compatibility patch",
+  "description": "Keeps native chat avatar thumbnail URLs compatible with Theme Manager and message renderers.",
+  "loading_order": -2000,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "auto_update": false
+}
